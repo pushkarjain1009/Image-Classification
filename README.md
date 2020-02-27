@@ -1,6 +1,6 @@
 # __Object-Detection__
 
-This repository contains some of Classifier, I coded in python, for Object Detecion on different Datasets.
+This repository contains some of Classifier,  coded in python, for Object Detecion on different Datasets.
 
 ## __Sub-Folders cotains__:
 
